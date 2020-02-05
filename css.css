@@ -14,6 +14,8 @@ h1{
     border: solid;
     padding:30px 20px;
     margin: 30px;
+    
+    
 } 
 
 footer{
@@ -35,4 +37,9 @@ footer{
 #card-tarefa{
     display: flex;
     
+}
+
+.confir{
+    margin-left: 20px;
+
 }
