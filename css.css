@@ -1,0 +1,38 @@
+header{
+
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1{
+    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.texto-tarefa{
+    display: flex;
+    border-radius: 20px;
+    border: solid;
+    padding:30px 20px;
+    margin: 30px;
+} 
+
+footer{
+    position: fixed;
+    justify-content: center;
+    width: 100%;
+    display: flex;
+    padding: 20px;
+    bottom: 0px;
+}
+#tarefa{
+    width: 45%;
+    margin-right: 20px;
+    display: flex;
+    
+}
+
+
+#card-tarefa{
+    display: flex;
+    
+}
